@@ -6,6 +6,6 @@
 评估ChatGPT的信息提取能力，见下图。这可能是效果不佳的原因。
 ![61cc7e814f98ee21c3bc8fefece1ad8](https://user-images.githubusercontent.com/28804414/237035506-8fd2f15f-f34e-4f08-8300-1ab34855c88d.jpg)
 评估ChatGPT的信息提取能力的论文。
-arxiv.org/pdf/2304.11633
+[arxiv.org/pdf/2304.11633](https://arxiv.org/pdf/2304.11633.pdf)
 
 

@@ -21,9 +21,7 @@ def get_links(url):
     for link in links:
         href = link.get('href')
         text = re.sub(r"[\n\t]","",link.text)
-        pairs.append((text, href))
+        if not re.findall('javascript', str(href)):
+            pairs.append((text, href))
 
     return pairs
-
-
-print(get_links("https://www.qq.com/"))
